@@ -1,4 +1,4 @@
-# aws-deepracer-virtual-race-guide
+# aws-deepracer-guide-kor
 
 AWS DeepRacer 온라인 대회 운영 및 진행을 위한 한국어 가이드입니다.
 
